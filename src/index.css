@@ -1,4 +1,4 @@
-:root {
+/*:root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -47,6 +47,7 @@ button {
   transition: border-color 0.25s;
   display: inline-block;
   margin: 0 10px;
+  
 
 }
 button:hover {
@@ -69,3 +70,4 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+*/
